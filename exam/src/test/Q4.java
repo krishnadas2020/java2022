@@ -19,7 +19,7 @@ public class Q4 {
 			
 			//System.out.println(s);
 		}
-		return s+"hi";
+		return s+"hi"+"hello";
 	}	
 
 }
